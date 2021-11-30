@@ -11,5 +11,4 @@ const timer = function (commandLineObject) {
   } 
 }
   
-
 timer(commandLineObject);
